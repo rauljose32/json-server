@@ -1,4 +1,5 @@
 [
+  "questao" : [
   {
     "dicas" : ["Capitão Yonkou", "Chapeu de Palha", "Gomu Gomu No"], 
     "resposta" : "Luffy"
@@ -19,4 +20,5 @@
     "dicas" : ["Navegadora", "Gata Ladra", "Zeus"], 
     "resposta" : "Nami"
   }
+]
 ]
