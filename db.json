@@ -1,4 +1,42 @@
-{
-  "dicas" : ["Capitão Yonkou", "Chapeu de Palha", "Gomu Gomu No"], 
-  "resposta" : "Luffy"
-}
+[
+  {
+    "dicas" : ["Capitão Yonkou", "Chapeu de Palha", "Gomu Gomu No"], 
+    "resposta" : "Luffy"
+  },
+  {
+    "dicas" : ["Espadachim", "Caçador de Piratas", "Santoryu"], 
+    "resposta" : "Zoro"
+  },
+  {
+    "dicas" : ["Atirador", "Deus", "Hisatsu Firebird Star"], 
+    "resposta" : "Usop"
+  },
+  {
+    "dicas" : ["Cozinheiro", "Perna Negra", "Diable Jambe"], 
+    "resposta" : "Sanji"
+  },
+  {
+    "dicas" : ["Navegadora", "Gata Ladra", "Zeus"], 
+    "resposta" : "Nami"
+  },
+  {
+    "dicas" : ["Medico", "Amante de Algodão Doce", "Rumble"], 
+    "resposta" : "Chopper"
+  },
+  {
+    "dicas" : ["Arqueologa", "Filha do Demônio", "Fluer"], 
+    "resposta" : "Robin"
+  },
+  {
+    "dicas" : ["Carpinteiro", "Cyborgue", "SUUUPAAAAAAR"], 
+    "resposta" : "Franky"
+  },
+  {
+    "dicas" : ["Musico", "Soul King", "YOOOHOHOHOHOHOHO"], 
+    "resposta" : "Brook"
+  },
+  {
+    "dicas" : ["Timoneiro", "Caveleiro do Mar", "Karate Tritão"], 
+    "resposta" : "Jinbe"
+  }
+]
