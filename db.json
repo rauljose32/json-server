@@ -1,34 +1,44 @@
 {
   "questao" : [
     {
+      "id" : 1,
       "dicas" : ["Capitão Yonkou", "Chapeu de Palha", "Gomu Gomu No"],
       "resposta" : "Luffy"
     },
     {
+      "id" : 2,
       "dicas" : ["Espadachim", "Caçador de Piratas", "Santoryu"], "resposta" : "Zoro"
     },
     {
+      "id" : 3,
       "dicas" : ["Atirador", "Deus", "Hisatsu Firebird Star"], "resposta" : "Usop"
     },
     {
+      "id" : 4,
       "dicas" : ["Cozinheiro", "Perna Negra", "Diable Jambe"], "resposta" : "Sanji"
     },
     {
+      "id" : 5,
       "dicas" : ["Navegadora", "Gata Ladra", "Zeus"], "resposta" : "Nami"
     },
     {
+      "id" : 6,
       "dicas" : ["Medico", "Amante de Algodão Doce", "Rumble"], "resposta" : "Chopper"
     },
     {
+      "id" : 7,
       "dicas" : ["Arqueologa", "Filha do Demônio", "Fluer"], "resposta" : "Robin"
     },
     {
+      "id" : 8,
       "dicas" : ["Carpinteiro", "Cyborgue", "SUUUPAAAAAAR"], "resposta" : "Franky"
     },
     {
+      "id" : 9,
       "dicas" : ["Musico", "Soul King", "YOOOHOHOHOHOHOHO"], "resposta" : "Brook"
     },
     {
+      "id" : 10,
       "dicas" : ["Timoneiro", "Caveleiro do Mar", "Karate Tritão"], "resposta" : "Jinbe"
     }
   ],
