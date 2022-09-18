@@ -1,44 +1,44 @@
 {
   "questao" : [
     {
-      "id" : 1,
+      "id" : 0,
       "dicas" : ["Capitão Yonkou", "Chapeu de Palha", "Gomu Gomu No"],
       "resposta" : "Luffy"
     },
     {
-      "id" : 2,
+      "id" : 1,
       "dicas" : ["Espadachim", "Caçador de Piratas", "Santoryu"], "resposta" : "Zoro"
     },
     {
-      "id" : 3,
+      "id" : 2,
       "dicas" : ["Atirador", "Deus", "Hisatsu Firebird Star"], "resposta" : "Usop"
     },
     {
-      "id" : 4,
+      "id" : 3,
       "dicas" : ["Cozinheiro", "Perna Negra", "Diable Jambe"], "resposta" : "Sanji"
     },
     {
-      "id" : 5,
+      "id" : 4,
       "dicas" : ["Navegadora", "Gata Ladra", "Zeus"], "resposta" : "Nami"
     },
     {
-      "id" : 6,
+      "id" : 5,
       "dicas" : ["Medico", "Amante de Algodão Doce", "Rumble"], "resposta" : "Chopper"
     },
     {
-      "id" : 7,
+      "id" : 6,
       "dicas" : ["Arqueologa", "Filha do Demônio", "Fluer"], "resposta" : "Robin"
     },
     {
-      "id" : 8,
+      "id" : 7,
       "dicas" : ["Carpinteiro", "Cyborgue", "SUUUPAAAAAAR"], "resposta" : "Franky"
     },
     {
-      "id" : 9,
+      "id" : 8,
       "dicas" : ["Musico", "Soul King", "YOOOHOHOHOHOHOHO"], "resposta" : "Brook"
     },
     {
-      "id" : 10,
+      "id" : 9,
       "dicas" : ["Timoneiro", "Caveleiro do Mar", "Karate Tritão"], "resposta" : "Jinbe"
     }
   ],
